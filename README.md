@@ -15,3 +15,9 @@ Meet with our Member
 | Teguh Dwi Cahya Kusuma   | A179D4KY433     | Mobile Development | Member | [GitHub](https://github.com/wicahma) | a179d4ky4335@bangkit.academy      |
 | Gabriella Natasya Br Ginting   | A004D4KX3553     | Mobile Development | Member | [GitHub](https://github.com/Gabbynts) | a004d4kx3553@bangkit.academy      |
 
+## Repositories
+| Learning Paths           | Link                                             |
+|--------------------------|--------------------------------------------------|
+| Machine Learning         | [Machine Learning Path](https://github.com/tutorinedutech/tutorin-ml)  |
+| Mobile Development       | [Mobile Development Path](https://github.com/tutorinedutech/tutorin-mobile) |
+| Cloud Computing          | [Cloud Computing Path](https://github.com/tutorinedutech/tutorin-backend) |
