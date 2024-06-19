@@ -1,4 +1,6 @@
-# Home
+# TutorIn
+
+TutorIn is an application designed to simplify the process of finding skill development and tutoring services for learners and professionals. It allows users to search for tutors based on criteria such as personality, teaching style, subject, schedule, and location. TutorIn uses AI and NLP to match learner criteria with tutor profiles, recommending the best tutor options. Learners and tutors can communicate via an in-app chat about lessons. Additionally, learners can find mentors for career development through seminars, webinars, or private lessons. Future features include a chatbot for academic queries and a discussion forum, available exclusively to users who engage with recommended tutors.
 
 ## Members
 Meet with our Member
