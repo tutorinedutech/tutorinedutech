@@ -21,3 +21,8 @@ Meet with our Member
 | Machine Learning         | [Machine Learning Path](https://github.com/tutorinedutech/tutorin-ml)  |
 | Mobile Development       | [Mobile Development Path](https://github.com/tutorinedutech/tutorin-mobile) |
 | Cloud Computing          | [Cloud Computing Path](https://github.com/tutorinedutech/tutorin-backend) |
+
+## Future Development
+- **Discussion Forum**
+- **Learning Consultation with AI**
+- **In-app Chat Feature Between Tutors and **
