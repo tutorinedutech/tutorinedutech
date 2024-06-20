@@ -25,4 +25,4 @@ Meet with our Member
 ## Future Development
 - **Discussion Forum**
 - **Learning Consultation with AI**
-- **In-app Chat Feature Between Tutors and **
+- **In-app Chat Feature Between Tutors and**
